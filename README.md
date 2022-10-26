@@ -1,5 +1,5 @@
 # GameOn
-
+***
 ## Créer une landing page avec Javascript
 
 Un matin, vous recevez le courriel suivant : 
@@ -17,7 +17,7 @@ Pour te donner un aperçu, Jason avait commencé  à travailler sur la structure
 Ton travail consiste à ajouter le code JavaScript manquant pour que le formulaire soit pleinement fonctionnel. Pour t’aider à démarrer, j'ai demandé à Jason d'ajouter les issues sur le repo GitHub qui décrivent ce qu'il reste à faire. 
 
 ## Nous avons reçu quelques commentaires de la part de l’équipe de QA récemment, donc lorsque tu soumets ton code, assure-toi de : 
-***
+
 * travailler sur un repo GitHub forké ;
 * utiliser des fichiers séparés pour le HTML, le CSS et le JavaScript ;
 * toujours commenter ton code (décrire chaque fonction et chaque classe, ainsi que les parties du code qui nécessitent plus de détails) ;
@@ -27,7 +27,7 @@ Ton travail consiste à ajouter le code JavaScript manquant pour que le formulai
 Merci beaucoup, 
 
 Erika
-
+***
 ## Installation
 cloner le repository.
 ```
