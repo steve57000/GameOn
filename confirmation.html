@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>confirmation</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <link rel="stylesheet" href="modal.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="https://fonts.googleapis.com/css?family=DM+Sans" rel="stylesheet"/>
+</head>
+<body>
+<div class="topnav" id="myTopnav">
+    <div class="header-logo">
+        <img alt="logo" src="Logo.png" width="250" height="45" />
+    </div>
+    <div class="main-navbar">
+        <a href="./index.html" class="active"><span>Accueil</span></a>
+        <a href="#"><span>Détails de l'évènement</span></a>
+        <a href="#"><span>À propos</span></a>
+        <a href="#"><span>Contact</span></a>
+        <a href="#"><span>Évènements passés</span></a>
+        <a href="javascript:void(0);" class="icon" onclick="editNav()">
+            <i class="fa fa-bars"></i>
+        </a>
+    </div>
+</div>
+<main>
+    <div class="content">
+        <span class="close close-confirmation" onclick="closeConfirm()"></span>
+        <div class="modal-body modal-body-confirm">
+            <p>Merci pour</p>
+            <p>votre inscription</p>
+        </div>
+        <button lang="fr" class="btn-signup close-confirmation" onclick="closeConfirm()">
+            Fermer
+        </button>
+    </div>
+</main>
+<script src="confirmation.js"></script>
+</body>
+</html>
