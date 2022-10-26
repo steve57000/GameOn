@@ -1,4 +1,4 @@
-![Image text](/path/to/the/Logo.png)
+![Image text](https://github.com/steve57000/gameOn/blob/master/Logo.png?raw=true)
 
 ***
 ## Créer une landing page avec Javascript
