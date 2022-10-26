@@ -18,18 +18,18 @@ Ton travail consiste à ajouter le code JavaScript manquant pour que le formulai
 
 ## Nous avons reçu quelques commentaires de la part de l’équipe de QA récemment, donc lorsque tu soumets ton code, assure-toi de : 
 ***
-*travailler sur un repo GitHub forké ;
-*utiliser des fichiers séparés pour le HTML, le CSS et le JavaScript ;
-*toujours commenter ton code (décrire chaque fonction et chaque classe, ainsi que les parties du code qui nécessitent plus de détails) ;
-*tester manuellement les fonctionnalités, les entrées de formulaire et l'affichage responsive.
-*Quand tu auras terminé, on fera une révision du code tous les deux et on vérifiera qu’il est prêt à être mis en production. 
+* travailler sur un repo GitHub forké ;
+* utiliser des fichiers séparés pour le HTML, le CSS et le JavaScript ;
+* toujours commenter ton code (décrire chaque fonction et chaque classe, ainsi que les parties du code qui nécessitent plus de détails) ;
+* tester manuellement les fonctionnalités, les entrées de formulaire et l'affichage responsive.
+* Quand tu auras terminé, on fera une révision du code tous les deux et on vérifiera qu’il est prêt à être mis en production. 
 
 Merci beaucoup, 
 
 Erika
 
 ## Installation
-*** cloner le repository.
+cloner le repository.
 ```
 $ git clone https://github.com/steve57000/gameOn
 ```
