@@ -1,4 +1,5 @@
-# GameOn
+![Image text](/path/to/the/Logo.png)
+
 ***
 ## Créer une landing page avec Javascript
 
