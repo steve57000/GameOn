@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <title>Reservation</title>
-    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
     <meta name="description" content="Évènements national de Gaming" />
     <link rel="stylesheet" href="modal.css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -118,7 +118,6 @@
                   name="birthdate"
                   min="1900-01-01"
                   max="2012-12-31"
-                  pattern="(0[1-9]|[12][0-9]|3[01])[\/](0[1-9]|1[012])[\/](19|20)\d\d"
                   required
                 />
               </div>
@@ -132,11 +131,9 @@
                   name="quantity"
                   min="0"
                   max="99"
-                  pattern="[0-9]{1,2}"
                   title="Nombre de tournois compris entre 0 et 99"
                   placeholder="0"
                   required
-                  
                 />
               </div>
               <p class="text-label">A quel tournoi souhaitez-vous participer cette année ?</p>
@@ -253,6 +250,6 @@
         Copyright 2014 - 2022, GameOn Inc.
       </p>
     </footer>
-    <script type="text/javascript" src="modal.js"></script>
+    <script src="modal.js"></script>
   </body>
 </html>
